@@ -12,11 +12,11 @@
 
 *MENTOR*: NEELA SANTOSH
 
-Investor Preferences & Behavior Dashboard
+# Investor Preferences & Behavior Dashboard
 
 A comprehensive Power BI dashboard project that analyzes investor demographics, behavior, preferences, and investment styles based on a structured dataset. This README covers every detail about how the dashboard was conceptualized, designed, and built using Microsoft Power BI, making it suitable for learning, reference, or collaboration.
 
-Table of Contents
+# Table of Contents
 
 Introduction
 
@@ -48,13 +48,13 @@ Future Improvements
 
 Conclusion
 
-Introduction
+# Introduction
 
 This Power BI dashboard project is designed to analyze the preferences and behaviors of retail investors. Using a survey-based dataset, the dashboard visually explores various aspects such as demographics, preferred investment options, frequency of monitoring investments, expected returns, and sources of investment knowledge.
 
 The project is ideal for data analysts, finance students, or business intelligence professionals looking to understand how to work with survey data and develop effective visual storytelling through dashboards.
 
-Project Objective
+# Project Objective
 
 The main goals of this project are:
 
@@ -68,7 +68,7 @@ To gain insights into savings goals and investment durations.
 
 To present all findings in an interactive, user-friendly Power BI dashboard.
 
-Dataset Description
+# Dataset Description
 
 The dataset used for this project contains responses from 40 individual investors. Key columns include:
 
@@ -110,7 +110,7 @@ Savings Objectives
 
 A cleaned and processed version of the dataset (InvestorDashboard_Cleaned.csv) is used in Power BI.
 
-Tools Used
+# Tools Used
 
 Microsoft Power BI Desktop: For creating the dashboard
 
@@ -120,7 +120,7 @@ Python (Pandas): For transforming the dataset into clean format (optional)
 
 Power Query Editor: For data shaping inside Power BI
 
-Data Preparation
+# Data Preparation
 
 The raw dataset required some preprocessing to make it suitable for visualization. Steps included:
 
@@ -134,7 +134,7 @@ Normalization of Text: Ensured consistent casing and removed typos.
 
 Saved as Clean CSV: Used for import in Power BI as InvestorDashboard_Cleaned.csv.
 
-Power BI Workflow
+# Power BI Workflow
 
 The following workflow was followed inside Power BI:
 
@@ -152,7 +152,7 @@ Slicers and Filters: Added to enhance interactivity.
 
 Final Touches: Added titles, headers, and layout alignment.
 
-Visuals Created
+# Visuals Created
 
 1. Pie Chart: Gender Distribution
 
@@ -190,7 +190,7 @@ Field: Source
 
 Purpose: Where do people learn about investing?
 
-KPI Cards
+# KPI Cards
 
 Total Investors
 
@@ -214,7 +214,7 @@ Top Investment Option
 
 Logic: Highest average rating across investment types
 
-Slicers and Filters
+# Slicers and Filters
 
 To allow users to interact and explore data, the following slicers were added:
 
@@ -228,7 +228,7 @@ Savings Objectives
 
 These allow dynamic filtering of visuals across the report.
 
-Dashboard Layout
+# Dashboard Layout
 
 The dashboard is divided into three sections:
 
@@ -274,7 +274,7 @@ Most people expect 20%-30% returns
 
 Financial knowledge is mostly sourced from Internet and Magazines
 
-Export and Sharing
+# Export and Sharing
 
 The report can be exported as PDF for presentations.
 
@@ -282,7 +282,7 @@ Power BI file can be published to Power BI Service.
 
 Can also be embedded in websites or shared via GitHub.
 
-Future Improvements
+# Future Improvements
 
 Add trend line if time-series data becomes available
 
@@ -292,6 +292,12 @@ Enable drill-through pages for deep dives
 
 Add AI visuals like Smart Narrative for automatic insights
 
-Conclusion
+# Conclusion
 
 This Power BI dashboard project illustrates how to turn a basic investor survey into meaningful insights. From designing visuals to applying interactivity, the dashboard combines technical execution with storytelling. It serves as a learning reference and a powerful tool for exploring investor behavior.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/a2067f8c-6549-414d-9128-f63cc03a5893)
+![Image](https://github.com/user-attachments/assets/7db4b13f-9be5-4137-843f-f9a4eb793910)
+![Image](https://github.com/user-attachments/assets/1e027041-afab-4f60-b278-96d5bbd435d8)
